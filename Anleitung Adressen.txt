@@ -1,0 +1,19 @@
+In dein Projekt wechseln
+
+Öffne CMD und geh in deinen Projektordner:
+
+npm install
+npm run dev
+Local: http://localhost:5173/
+
+Falls es nicht funktioniert:
+🔴 Node.js fehlt
+
+Teste:
+node -v
+
+
+Adressen:
+https://matheabibw.de/geometrie
+https://www.schule-bw.de/faecher-und-schularten/mathematisch-naturwissenschaftliche-faecher/mathematik/unterrichtsmaterialien/sekundarstufe1/fktn/realschule
+
